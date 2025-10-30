@@ -36,7 +36,7 @@ Demonstrates **Repository & Service patterns**, DTO mapping, and a RESTful API f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/janamihajloska/OrderManagementSolution
+git clone https://github.com/janamihajloska/OrderManagementAPI
 cd OrderManagementSolution
 
 2. Update appsettings.json (in OrderManagement.Api project) with your connection string:
